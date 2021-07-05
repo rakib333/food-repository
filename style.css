@@ -3,7 +3,39 @@
 }
 .wrapper{
     width: 960px;
+    margin: 0 auto;
+    display: flex;
 }
 a{
     text-decoration: none;
+}
+body{
+    font-family: 'Bitter', serif;
+}
+.header{
+    width: 50%;
+    margin-top: 200px;
+}
+.header span {
+    color: #df5308;
+}
+.header p {
+    margin-bottom: 35px;
+}
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 15px;
+}
+a{
+    background: linear-gradient(#FB924A , #FD5031);
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: #fff;
+}
+.header-image {
+    width: 50%;
+}
+img{
+    width: 100%;
 }
