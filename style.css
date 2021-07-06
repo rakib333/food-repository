@@ -80,8 +80,11 @@ img{
     padding: 10px 20px;
     color: #fff;
 }
-.portfolio-info-one h2 {
+.portfolio-info-one {
     text-align: center;
+    width: 100%;
+}
+.portfolio-info-one h2 {
     color: #676767;
     margin-bottom: 40px;
 }
@@ -95,6 +98,7 @@ img{
     border-radius: 20px;
     float: left;
     margin-right: 30px;
+    margin-bottom: 30px;
 }
 .without-mr {
     margin-right: 0px;
