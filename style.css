@@ -30,7 +30,7 @@ img{
     color: #df5308;
 }
 .header p {
-    margin-bottom: 35px;
+    margin-bottom: 45px;
     margin-top: 50px;
 }
 .header h1{
@@ -148,4 +148,8 @@ img{
 }
 .footer-part strong {
     color: #5B5B5B;
+}
+.no-mr {
+    margin-bottom: 0px;
+    margin-top: 80px;
 }
